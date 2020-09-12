@@ -5,6 +5,8 @@ A powerful XSS scanner made in python 3.7<br/>
 
 ## Installing
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f315a989492d40f48ead6e7df3b5492e)](https://app.codacy.com/manual/vulnlabs.contact/PwnXSS?utm_source=github.com&utm_medium=referral&utm_content=andripwn/PwnXSS&utm_campaign=Badge_Grade_Dashboard)
+
 Requirements: <br/>
 
 <li> BeautifulSoup4 </li>
